@@ -89,3 +89,4 @@ git push origin master
 
 [简单搭建自己的博客](https://lindexi.gitee.io/lindexi//post/%E7%AE%80%E5%8D%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B
 
+# Foo
